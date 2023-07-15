@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-br">
-      <body className='h-full min-h-screen bg-gradient-to-tr from-blue-400 to-blue-800'>  {children}</body>
+      <body className='h-full min-h-screen bg-gradient-to-tr from-blue-400 via-blue-600 to-blue-800'>  {children}</body>
     </html>
   )
 }

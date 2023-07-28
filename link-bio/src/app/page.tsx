@@ -44,7 +44,6 @@ export default function Home() {
           className='w-full rounded-full border-2 border-blue-800 text-blue-800 p-4 flex items-center justify-between mb-4'>
           Portfólio - Maxson Almeida - Desenvolvedor Back-End
           <FaExternalLinkAlt className='ml-4' />
-          _blank
         </a>
 
         <div className=' flex items-center justify-center'>

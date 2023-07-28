@@ -40,18 +40,12 @@ export default function Home() {
           </a>
         </div>
 
-        <a href='https://github.com/maxsonferovante/Black-Pearl'
+        <a href='https://maxsonalmeida-dev.vercel.app/'
           className='w-full rounded-full border-2 border-blue-800 text-blue-800 p-4 flex items-center justify-between mb-4'>
-          Black Pearl - Gestor de Convênios do Sindicato dos Portuários do Pará e Amapá
+          Portfólio - Maxson Almeida - Desenvolvedor Back-End
           <FaExternalLinkAlt className='ml-4' />
+          _blank
         </a>
-
-        <a href='https://github.com/maxsonferovante/LinkBioNextJS'
-          className='w-full rounded-full border-2 border-blue-800 text-blue-800 p-4 flex items-center justify-between'>
-          Link para Bio em Next.JS - Este projeto que você está vendo agora mesmo :)
-          <FaExternalLinkAlt className='ml-4' />
-        </a>
-
 
         <div className=' flex items-center justify-center'>
           <span className='text-blue-800 min-full text-center mt-4'>

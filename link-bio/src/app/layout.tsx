@@ -3,7 +3,7 @@ import './globals.css'
 export const metadata = {
   title: 'Olá, eu sou Maxson Almeida',
   description: 'Aqui você encontra todos os meus links para as minhas redes sociais e contatos',
-  favicon: 'code-solid.svg'
+
 }
 
 export default function RootLayout({
